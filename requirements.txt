@@ -1,3 +1,0 @@
-setuptools
-discord.py
-pyautogui
